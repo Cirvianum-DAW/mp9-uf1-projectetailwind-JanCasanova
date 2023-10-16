@@ -578,4 +578,4 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 
 },{}]},["beUwC","4M6V8"], "4M6V8", "parcelRequire5663")
 
-//# sourceMappingURL=MP9_UF1_tailwind-project.59712999.js.map
+//# sourceMappingURL=mp9-uf1-projectetailwind-JanCasanova.59712999.js.map
