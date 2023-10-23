@@ -66,4 +66,6 @@ body {
 .text-enllasos {
     font-size: 20px;
     margin-top: 50px;
+    margin-bottom: 10px;
+    background-color: rgb(117, 243, 243);
 }
