@@ -285,188 +285,52 @@ img, video {
   }
 }
 
-.absolute {
-  position: absolute;
-}
-
 .relative {
   position: relative;
 }
 
-.left-0 {
-  left: 0;
+.float-right {
+  float: right;
 }
 
-.left-\[120px\] {
-  left: 120px;
+.float-left {
+  float: left;
 }
 
-.left-\[1379px\] {
-  left: 1379px;
+.m-2 {
+  margin: .5rem;
 }
 
-.left-\[141px\] {
-  left: 141px;
+.mt-10 {
+  margin-top: 2.5rem;
 }
 
-.left-\[1507px\] {
-  left: 1507px;
-}
-
-.left-\[1610px\] {
-  left: 1610px;
-}
-
-.left-\[1765px\] {
-  left: 1765px;
-}
-
-.left-\[27px\] {
-  left: 27px;
-}
-
-.left-\[287px\] {
-  left: 287px;
-}
-
-.left-\[50px\] {
-  left: 50px;
-}
-
-.left-\[5px\] {
-  left: 5px;
-}
-
-.left-\[760px\] {
-  left: 760px;
-}
-
-.left-\[908px\] {
-  left: 908px;
-}
-
-.top-0 {
-  top: 0;
-}
-
-.top-\[100px\] {
-  top: 100px;
-}
-
-.top-\[198px\] {
-  top: 198px;
-}
-
-.top-\[27px\] {
-  top: 27px;
-}
-
-.top-\[288px\] {
-  top: 288px;
-}
-
-.top-\[5px\] {
-  top: 5px;
-}
-
-.top-\[625px\] {
-  top: 625px;
-}
-
-.top-\[729px\] {
-  top: 729px;
-}
-
-.top-\[735px\] {
-  top: 735px;
-}
-
-.top-\[743px\] {
-  top: 743px;
+.block {
+  display: block;
 }
 
 .flex {
   display: flex;
 }
 
-.h-\[0px\] {
-  height: 0;
-}
-
 .h-\[1080px\] {
   height: 1080px;
-}
-
-.h-\[115px\] {
-  height: 115px;
-}
-
-.h-\[300px\] {
-  height: 300px;
-}
-
-.h-\[306px\] {
-  height: 306px;
-}
-
-.h-\[37px\] {
-  height: 37px;
-}
-
-.h-\[57px\] {
-  height: 57px;
-}
-
-.h-\[71px\] {
-  height: 71px;
-}
-
-.h-\[73px\] {
-  height: 73px;
-}
-
-.h-\[90px\] {
-  height: 90px;
 }
 
 .h-screen {
   height: 100vh;
 }
 
-.w-\[103px\] {
-  width: 103px;
-}
-
-.w-\[108px\] {
-  width: 108px;
-}
-
-.w-\[146px\] {
-  width: 146px;
-}
-
-.w-\[150px\] {
-  width: 150px;
-}
-
-.w-\[1665px\] {
-  width: 1665px;
-}
-
-.w-\[1820px\] {
-  width: 1820px;
-}
-
 .w-\[1920px\] {
   width: 1920px;
 }
 
-.w-\[400px\] {
-  width: 400px;
+.flex-row {
+  flex-direction: row;
 }
 
-.w-\[95px\] {
-  width: 95px;
+.flex-col {
+  flex-direction: column;
 }
 
 .items-center {
@@ -477,40 +341,37 @@ img, video {
   justify-content: center;
 }
 
-.border {
-  border-width: 1px;
+.justify-between {
+  justify-content: space-between;
 }
 
-.border-black {
-  --tw-border-opacity: 1;
-  border-color: rgb(0 0 0 / var(--tw-border-opacity));
+.overflow-hidden {
+  overflow: hidden;
 }
 
-.bg-white {
+.rounded-md {
+  border-radius: .375rem;
+}
+
+.bg-teal-300 {
   --tw-bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+  background-color: rgb(94 234 212 / var(--tw-bg-opacity));
 }
 
-.bg-zinc-300 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(212 212 216 / var(--tw-bg-opacity));
+.bg-cover {
+  background-size: cover;
+}
+
+.p-4 {
+  padding: 1rem;
 }
 
 .text-center {
   text-align: center;
 }
 
-.font-\[\'Inter\'\] {
-  font-family: Inter;
-}
-
-.text-xl {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
-}
-
-.font-normal {
-  font-weight: 400;
+.font-sans {
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
 }
 
 .text-black {
@@ -518,45 +379,8 @@ img, video {
   color: rgb(0 0 0 / var(--tw-text-opacity));
 }
 
-.navbar {
-  background-color: #777;
-  overflow: hidden;
-}
-
-.navbar a.button-left {
-  float: left;
-  color: #000;
-  text-align: center;
-  background-color: #75f3f3;
-  border-radius: 10%;
-  margin: 10px;
-  padding: 14px 16px;
-  text-decoration: none;
-  display: block;
-}
-
-.navbar a.button-right {
-  float: right;
-  color: #000;
-  text-align: center;
-  background-color: #75f3f3;
-  border-radius: 10%;
-  margin: 10px;
-  padding: 14px 16px;
-  text-decoration: none;
-  display: block;
-}
-
-.navbar a.button-left:hover, .navbar a.button-right:hover {
-  background-color: #00bfff;
-}
-
-body {
-  text-align: center;
-  background-image: url("background.3289ddc3.jpg");
-  background-size: cover;
-  font-family: Arial, sans-serif;
-  display: flex;
+.no-underline {
+  text-decoration-line: none;
 }
 
 iframe {
@@ -678,6 +502,11 @@ p {
   image, iframe {
     width: 100%;
   }
+}
+
+.hover\:bg-green-300:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(134 239 172 / var(--tw-bg-opacity));
 }
 
 /*# sourceMappingURL=index.4d663569.css.map */

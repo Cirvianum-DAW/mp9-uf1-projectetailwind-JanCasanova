@@ -4,47 +4,7 @@
 
 
 
-.navbar {
-    background-color: #777777; 
-    overflow: hidden;
-}
 
-.navbar a.button-left {
-    float: left;
-    display: block;
-    color: black; 
-    background-color: rgb(117, 243, 243);
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    margin: 10px;
-    border-radius: 10%;
-}
-
-.navbar a.button-right {
-    float: right;
-    display: block;
-    color: black;
-    background-color: rgb(117, 243, 243);
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    margin: 10px;
-    border-radius: 10%;
-}
-
-.navbar a.button-left:hover,
-.navbar a.button-right:hover {
-    background-color: #00bfff;
-}
-
-body {
-    display: flex;
-    font-family: Arial, sans-serif;
-    text-align: center;
-    background-image: url("img/background.jpg");
-    background-size: cover;
-}
 
 iframe {
     width: 560px;
