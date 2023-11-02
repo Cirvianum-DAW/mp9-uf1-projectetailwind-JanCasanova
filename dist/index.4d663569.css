@@ -330,20 +330,12 @@ img, video {
   max-height: 300px;
 }
 
-.min-h-screen {
-  min-height: 100vh;
+.w-1\/4 {
+  width: 25%;
 }
 
 .w-56 {
   width: 14rem;
-}
-
-.w-\[\] {
-  width: ;
-}
-
-.w-5 {
-  width: 1.25rem;
 }
 
 .w-screen {
@@ -356,14 +348,6 @@ img, video {
 
 .max-w-screen-xl {
   max-width: 1280px;
-}
-
-.max-w-\[\] {
-  max-width: ;
-}
-
-.max-w-\[2000px\] {
-  max-width: 2000px;
 }
 
 .flex-col {
