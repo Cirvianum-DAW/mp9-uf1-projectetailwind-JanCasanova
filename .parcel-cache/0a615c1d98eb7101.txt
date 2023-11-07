@@ -1,29 +1,39 @@
-12736
+12755
 129/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/Projecte UF1 - Disseny Web, HTML_CSS i Tailwind.pdf1699117240152569537 0
 96/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/tailwind.config.js1697463763203726511 0
-96/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat1500.html1699104520531910032 0
+96/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat1500.html1699117489737559296 0
 101/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/index.4d663569.css1699104520531910032 0
 102/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat600.ee5b5a9f.js1699104520531910032 0
 103/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat600.d01c0cba.png1699104520595911770 0
-95/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat128.html1699104520531910032 0
+95/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat128.html1699117489737559296 0
 105/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat600_1.483e2cc0.jpg1699104520579911335 0
+101/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/index.130a6276.css1699117489737559296 0
 101/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/cotxes.05cc5e6d.js1699104520531910032 0
+103/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat600.8d752a9f.png1699117488664936522 0
 105/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/quisom.4a32ad23.js.map1699104520563910901 0
 131/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/mp9-uf1-projectetailwind-JanCasanova.59712999.js1699104520531910032 0
 106/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat128.bd1c5c53.js.map1699104520563910901 0
 106/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seatleon_2.5d2871f1.jpg1699104520579911335 0
-96/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/enllasos.html1699104520531910032 0
+96/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/enllasos.html1699117489737559296 0
 106/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat1500_3.f6797870.jpg1699104520543910358 0
 106/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seatDevant.9fa16308.jpg1698248635736379449 0
+104/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seatleon.7cee9271.png1699117488468821838 0
 107/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat1500.693b8df2.js.map1699104520563910901 0
 104/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat1500.be2b0c4d.png1699104520611912204 0
 106/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/background.3289ddc3.jpg1699104520603911987 0
+105/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat600_2.a6e6dc33.jpg1699117488516849923 0
 106/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat1500_1.a98a351d.jpg1699104520571911118 0
+106/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seatleon_3.5b4c888a.jpg1699117488660934182 0
+106/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seatleon_1.a0c9f335.jpg1699117488472824178 0
+104/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat1500.84165ccc.png1699117488516849923 0
 106/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seatleon_1.9f10a64a.jpg1699104520535910141 0
 106/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seatleon_3.de092471.jpg1699104520535910141 0
 105/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/cotxes.05cc5e6d.js.map1699104520559910792 0
 105/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat128_1.b8b83360.jpg1699104520635912855 0
-93/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/index.html1699104520531910032 0
+105/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat128_2.96e7a42e.jpg1699117488516849923 0
+105/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat128_1.fea1d45e.jpg1699117488472824178 0
+105/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/index.130a6276.css.map1699117489753568559 0
+93/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/index.html1699117489737559296 0
 105/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat600_2.043e0741.jpg1699104520555910684 0
 107/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat1500_2.58c78cfb.jpeg1699104520535910141 0
 104/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seatleon.3931a151.png1699104520575911227 0
@@ -261,7 +271,7 @@
 136/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/node-gyp-build-optional-packages/node_modules1697464686637572447 1
 130/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/node-gyp-build-optional-packages/bin.js1697464705061900146 0
 131/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/node-gyp-build-optional-packages/LICENSE1697464704381888150 0
-96/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seatleon.html1699104520531910032 0
+96/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seatleon.html1699117489741561611 0
 123/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/node-gyp-build-optional-packages1697464708353958106 1
 114/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/fill-range/package.json1697464705297904306 0
 111/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/fill-range/README.md1697464708413959161 0
@@ -1013,6 +1023,7 @@
 126/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/autoprefixer/lib/hacks/intrinsic.js1697464720522170825 0
 122/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/autoprefixer/lib/hacks/order.js1697464721090180698 0
 127/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/autoprefixer/lib/hacks/appearance.js1697464712290027176 0
+106/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/background.1a9b9535.jpg1699117488660934182 0
 132/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/autoprefixer/lib/hacks/justify-content.js1697464720646172980 0
 132/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/autoprefixer/lib/hacks/image-rendering.js1697464720226165679 0
 130/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/autoprefixer/lib/hacks/align-content.js1697464709209973149 0
@@ -2443,7 +2454,7 @@
 96/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/json51697464716170095018 1
 146/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/optimizer-htmlnano/node_modules/posthtml-render1697464933353555988 1
 119/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/tough-cookie/lib/memstore.js1697464712194025494 0
-90/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/package.json1698345711829059755 0
+90/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/package.json1699117393697146108 0
 154/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/optimizer-htmlnano/node_modules/domhandler/package.json1697464710737999971 0
 110/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/psl/dist/psl.min.js1697464716138094459 0
 103/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/.bin/resolve1697464896985017259 0
@@ -3734,6 +3745,7 @@
 129/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@swc/helpers/esm/_wrap_native_super.js1697464727314288535 0
 182/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/optimizer-htmlnano/node_modules/postcss-svgo/node_modules/csso/lib/replace/color.js1697464722494205076 0
 147/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/transformer-html/node_modules/domelementtype/lib1697464714246061407 1
+105/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat128_3.07282480.jpg1699117488660934182 0
 139/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/electron-to-chromium/full-chromium-versions.json1697464715566084472 0
 109/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/lodash/toString.js1697464743670569045 0
 154/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/parse5/lib/extensions/location-info/open-element-stack-mixin.js1697464716142094529 0
@@ -3981,7 +3993,7 @@
 109/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/lodash/identity.js1697464737726467581 0
 119/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/ts-interface-checker/LICENSE1697464706125918899 0
 150/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/plugins.js1697464720986178891 0
-94/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/quisom.html1699104520531910032 0
+94/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/quisom.html1699117489737559296 0
 135/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@swc/helpers/esm/_tagged_template_literal.js1697464726858280655 0
 159/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/packager-html/node_modules/entities/lib/encode-trie.d.ts.map1697464717342115462 0
 135/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/optimizer-htmlnano/node_modules/glob1697464933361556105 1
@@ -4973,7 +4985,7 @@
 155/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/packager-html/node_modules/entities/lib/maps/legacy.json1697464716086093552 0
 117/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/csso/node_modules/mdn-data1697464720062162828 1
 122/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/resolve/test/home_paths_sync.js1697464720506170546 0
-94/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/cotxes.html1699104520531910032 0
+94/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/cotxes.html1699117489737559296 0
 112/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/cssnano-utils/LICENSE1697464704573891537 0
 131/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/utility-types/dist/aliases-and-guards.js1697464706825931226 0
 129/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/type-fest/source/conditional-pick.d.ts1697464714094058750 0
@@ -5136,6 +5148,7 @@
 113/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/tweetnacl/CHANGELOG.md1697464716298097251 0
 152/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/optimizer-htmlnano/node_modules/js-yaml/lib/dumper.js1697464714094058750 0
 201/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/optimizer-htmlnano/node_modules/postcss-svgo/node_modules/css-tree/cjs/syntax/node/GeneralEnclosed.cjs1697464721754192231 0
+105/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat600_1.9bfe4952.jpg1699117488664936522 0
 115/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/fast-deep-equal/react.js1697464709169972447 0
 106/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/pirates/LICENSE1697464704345887514 0
 115/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/sshpk/lib/formats/pem.js1697464717882124876 0
@@ -6744,6 +6757,7 @@
 147/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/package-manager/test/fixtures/packages/peers-2.01697464722978213475 1
 184/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/optimizer-htmlnano/node_modules/postcss-svgo/node_modules/domutils/lib/stringify.d.ts1697464721510187993 0
 150/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/packager-svg/node_modules/domutils/lib/stringify.js1697464712934038454 0
+105/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat600_3.ab96324a.jpg1699117488664936522 0
 138/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/csso/node_modules/mdn-data/css/definitions.json1697464715950091179 0
 118/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/performance-now/license.txt1697464710053987970 0
 197/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/optimizer-htmlnano/node_modules/postcss-svgo/node_modules/csso/node_modules/mdn-data/l10n/css.json1697464716130094320 0
@@ -7102,6 +7116,7 @@
 135/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/utils/src/replaceBundleReferences.js1697464725186251734 0
 137/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/packager-svg/node_modules/posthtml/lib1697464706789930592 1
 109/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/msgpackr/unpack.js1697464720018162063 0
+106/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat1500_1.27979899.jpg1699117488516849923 0
 99/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/isstream1697464710365993444 1
 152/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/packager-svg/node_modules/dom-serializer/package.json1697464713390046434 0
 141/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/optimizer-htmlnano/node_modules/terser/lib1697464726202269313 1
@@ -7696,7 +7711,7 @@
 154/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/package.json1697464716294097181 0
 109/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/delayed-stream/lib1697464709201973009 1
 155/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@swc/helpers/esm/_class_check_private_static_field_descriptor.js1697464723834228316 0
-95/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat600.html1699104520531910032 0
+95/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat600.html1699117489737559296 0
 122/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/codeframe/test/fixtures1697464707133936648 1
 192/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/optimizer-htmlnano/node_modules/postcss-svgo/node_modules/svgo/plugins/convertStyleToAttrs.js1697464718126129127 0
 132/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@nodelib/fs.walk/out/providers/async.d.ts1697464716378098647 0
@@ -8553,6 +8568,7 @@
 112/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/utility-types/LICENSE1697464704909897465 0
 122/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/jsdom/node_modules/ws/README.md1697464716074093343 0
 125/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/jsdom/node_modules/ws/package.json1697464715958091318 0
+103/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat128.37f322cc.png1699117488516849923 0
 148/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/jsdom/lib/jsdom/living/generated/ScrollLogicalPosition.js1697464734402410603 0
 123/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/jsdom/node_modules/ws/browser.js1697464705977916292 0
 116/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/jsdom/node_modules/ws/lib1697464715074075880 1
@@ -9064,6 +9080,7 @@
 141/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/jsdom/lib/jsdom/living/hr-time/Performance-impl.js1697464736262442507 0
 127/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@swc/helpers/_/_wrap_async_generator1697464737834469429 1
 146/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/jsdom/lib/jsdom/living/aborting/AbortController-impl.js1697464719886159766 0
+107/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat1500_2.4a8e8dd2.jpeg1699117488664936522 0
 142/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/jsdom/lib/jsdom/living/aborting/AbortSignal-impl.js1697464720018162063 0
 110/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/lodash/_arrayMap.js1697464713054040555 0
 122/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/jsdom/lib/jsdom/living/file-api1697464723234217913 1
@@ -10855,6 +10872,7 @@
 142/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/caniuse-lite/data/features/dom-manip-convenience.js1697464734134406003 0
 138/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/caniuse-lite/data/features/keyboardevent-key.js1697464737998472237 0
 137/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/caniuse-lite/data/features/cookie-store-api.js1697464725890263917 0
+106/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat1500_3.eee7e49b.jpg1699117488516849923 0
 139/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/caniuse-lite/data/features/unhandledrejection.js1697464742834554808 0
 186/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/optimizer-htmlnano/node_modules/postcss-svgo/node_modules/domutils/lib/esm/traversal.js1697464716482100462 0
 153/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/transformer-html/node_modules/domelementtype/readme.md1697464713258044124 0
@@ -10941,7 +10959,7 @@
 129/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/caniuse-lite/data/features/fontface.js1697464735758433867 0
 132/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/caniuse-lite/data/features/font-smooth.js1697464735718433181 0
 105/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seat128_3.fb7223de.jpg1699104520535910141 0
-82/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist1699104520643913073 1
+82/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist1699117489757570875 1
 131/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/tailwindcss/lib/public/resolve-config.js1697464737806468950 0
 128/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/caniuse-lite/data/features/css-has.js1697464729022318023 0
 125/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/caniuse-lite/data/features/wasm.js1697464743158560327 0
@@ -11456,6 +11474,7 @@
 156/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/csso/node_modules/css-tree/lib/syntax/node/PseudoClassSelector.js1697464727290288120 0
 110/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/form-data/README.md1697464705521908254 0
 140/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/csso/node_modules/css-tree/lib/syntax/node/Raw.js1697464727366289433 0
+106/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/dist/seatleon_2.bfd10009.jpg1699117488668938863 0
 213/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/optimizer-htmlnano/node_modules/postcss-svgo/node_modules/csso/lib/restructure/prepare/createDeclarationIndexer.js1697464722734209240 0
 128/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/@parcel/runtime-js/src/helpers/worker1697464932385541833 1
 110/home/jan/github-classroom/Cirvianum-DAW/mp9-uf1-projectetailwind-JanCasanova/node_modules/lodash/dropRight.js1697464736066439149 0
